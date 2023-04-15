@@ -2,5 +2,5 @@ streamlit
 pandas
 numpy
 pickle
-scipy.stats 
+SciPy
 sklearn
